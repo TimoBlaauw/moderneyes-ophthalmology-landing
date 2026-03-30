@@ -183,7 +183,7 @@ export function HeroSection({ onOpenBooking }: HeroSectionProps) {
                     alt="ModernEyes Ophthalmology"
                     width={600}
                     height={240}
-                    className="mb-4 md:mb-8 brightness-0 invert opacity-90 max-h-16 md:max-h-24 w-auto"
+                    className="mb-4 md:mb-8 opacity-90 max-h-16 md:max-h-24 w-auto"
                   />
 
                   <motion.div

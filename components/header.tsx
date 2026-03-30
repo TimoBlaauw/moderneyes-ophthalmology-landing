@@ -39,7 +39,7 @@ export function Header({ onOpenBooking }: HeaderProps) {
               alt="ModernEyes Ophthalmology"
               width={300}
               height={120}
-              className="h-9 sm:h-10 w-auto brightness-0 invert"
+              className="h-9 sm:h-10 w-auto"
               priority
             />
           </div>
