@@ -69,7 +69,7 @@ export function AuthorityQuoteSection() {
               />
 
               <p className="mt-4 md:mt-5 text-white/70 text-xs md:text-sm font-medium">
-                (clinic name placeholder) care team
+                ModernEyes Ophthalmology care team
               </p>
 
               <p className="mt-2 text-white/50 text-[11px] md:text-xs max-w-[560px] mx-auto leading-relaxed">

@@ -7,9 +7,9 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Eye Specialists and Surgeons of Northern Virginia",
+  title: "ModernEyes Ophthalmology — Long Island Eye Care Since 1984",
   description:
-    "Advanced vision care in Northern Virginia. LASIK, PRK, EVO ICL, RLE, and cataract surgery. WaveLight® PLUS technology. Locations in Fairfax and Gainesville.",
+    "Comprehensive eye care on Long Island. Laser cataract surgery, bladeless LASIK, glaucoma treatment, and retinal care. Board-certified ophthalmologists in Levittown, NY.",
   generator: "v0.app",
   icons: {
     icon: [
@@ -29,9 +29,9 @@ export const metadata: Metadata = {
     apple: "/apple-icon.png",
   },
   openGraph: {
-    title: "Eye Specialists and Surgeons of Northern Virginia",
+    title: "ModernEyes Ophthalmology — Long Island Eye Care Since 1984",
     description:
-      "See what's possible for your vision — with a specialist evaluation you can trust. Schedule a free consultation at Eye Specialists and Surgeons of Northern Virginia.",
+      "See what's possible for your vision — with a specialist evaluation you can trust. Schedule a free consultation at ModernEyes Ophthalmology.",
     locale: "en_US",
     type: "website",
   },
