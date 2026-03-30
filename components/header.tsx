@@ -37,9 +37,9 @@ export function Header({ onOpenBooking }: HeaderProps) {
             <Image
               src="/images/logo-moderneyes.png"
               alt="ModernEyes Ophthalmology"
-              width={200}
-              height={40}
-              className="h-8 sm:h-9 w-auto brightness-0 invert"
+              width={300}
+              height={120}
+              className="h-9 sm:h-10 w-auto brightness-0 invert"
               priority
             />
           </div>

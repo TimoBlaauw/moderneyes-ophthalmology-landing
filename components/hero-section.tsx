@@ -181,9 +181,9 @@ export function HeroSection({ onOpenBooking }: HeroSectionProps) {
                   <Image
                     src="/images/logo-moderneyes.png"
                     alt="ModernEyes Ophthalmology"
-                    width={200}
-                    height={40}
-                    className="mb-4 md:mb-8 brightness-0 invert opacity-90"
+                    width={600}
+                    height={240}
+                    className="mb-4 md:mb-8 brightness-0 invert opacity-90 max-h-16 md:max-h-24 w-auto"
                   />
 
                   <motion.div
